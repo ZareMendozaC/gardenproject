@@ -1,0 +1,44 @@
+body{
+	
+	padding: 10px 10% 0 10%;
+	background: url("image/fondo6.jpg");
+
+}
+header{
+	background: url("image/fondo5.png");
+	width: 90%;
+    height: 219px;
+    text-align: center;
+    font-family: Arial;
+    font-size: 80%;
+    padding-top: 21px;
+    padding-left: 12%;
+    background-size: cover;
+}
+.intro header{
+
+	color: #FF00BF;
+	font-size: 150%;
+
+}
+h1
+{
+	margin-top: 6%;
+	font-weight: 20px;
+}
+.summary{
+	background-color:red;
+}
+.preamble{
+	background-color:skyblue;
+	
+}
+.main supporting{
+	background-color:aqua;
+	
+	}
+
+.explanation{
+	background-color:blue;
+	
+	}
